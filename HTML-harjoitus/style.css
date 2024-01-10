@@ -1,0 +1,53 @@
+body {
+    background-color: darksalmon;
+}
+
+h1 {
+    color: rgb(255, 0, 170);
+}
+
+h2 {
+    color: rgb(60, 30, 210);
+}
+
+.esimerkki {
+    color: chartreuse;
+}
+
+.hankalaa {
+    color:darkslategray; 
+}
+
+.esimerkki-box {
+    background-color: #DDFFDD;
+    border: 1px solid;
+    padding: 5px;
+}
+
+.spanni {
+    color:blue; 
+}
+
+table {
+    width: 300px;
+
+    border-collapse: collapse;
+}
+
+.jsharkkatyyli {
+    display: none; 
+}
+
+table tr td {
+    border: solid black;
+    padding-left: 0px; 
+    border-spacing: 0px;
+}
+
+td {
+    color: deeppink;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: beige;
+}
